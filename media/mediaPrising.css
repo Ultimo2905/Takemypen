@@ -1,0 +1,327 @@
+ @media (min-width: 1580px) and (max-width: 1745px) {
+     .littleBlockPAndImgMain {
+         margin: 90px 0 0 39%;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 10%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 29%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 16%;
+
+     }
+ }
+
+ @media (min-width: 1224px) and (max-width: 1579px) {
+     .navBar li:first-child {
+         padding-left: 0;
+     }
+
+     .logoLink {
+         padding: 0;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 4%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 30%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 15%;
+     }
+ }
+
+ @media (min-width: 980px) and (max-width: 1223px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+         top: -65px;
+         left: 0;
+         position: absolute;
+
+     }
+
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+
+     .lastLine {
+         display: none;
+     }
+
+     .someCommit,
+     .someCommitFirstBlockLine,
+     .someCommitTwoBlockLine {
+         width: 90%;
+     }
+
+     .buttonCartSetings {
+         margin: 10px 0 0 7px;
+     }
+ }
+
+ @media (min-width: 480px) and (max-width: 979px) {
+     .mySlider {
+         display: none;
+     }
+
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+         top: -65px;
+         left: 0;
+         position: absolute;
+
+     }
+
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+
+     .lastLine {
+         display: none;
+     }
+
+     .someCommit,
+     .someCommitFirstBlockLine,
+     .someCommitTwoBlockLine {
+         width: 90%;
+     }
+
+     .buttonCartSetings {
+         margin: 10px 0 0 7px;
+     }
+
+     .titleInfo {
+         position: relative;
+         margin: 100px 0 0 0;
+     }
+
+     .titleInfo h1 {
+         color: #606060;
+     }
+
+     .buttonCartBlock {
+         margin-top: 10px;
+     }
+
+     .someCommitFirstBlock h2 {
+         text-align: left;
+         padding: 20px;
+     }
+
+     .someCommitThreeBlock p {
+         max-width: 90%;
+     }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+ }
+
+ @media (min-width: 320px) and (max-width: 479px) {
+     .mySlider {
+         display: none;
+     }
+
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .logo {
+         margin: 10px 17px 9px 75px;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+         top: -65px;
+         left: 0;
+         position: absolute;
+
+     }
+
+     .menu-container .links {
+         left: 90px;
+     }
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+
+     .lastLine {
+         display: none;
+     }
+
+     .someCommit,
+     .someCommitFirstBlockLine,
+     .someCommitTwoBlockLine {
+         width: 90%;
+     }
+
+     .buttonCartSetings {
+         margin: 10px 0 0 7px;
+     }
+
+     .titleInfo {
+         position: relative;
+         margin: 100px 0 0 0;
+     }
+
+     .titleInfo h1 {
+         color: #606060;
+     }
+
+     .buttonCartBlock {
+         margin-top: 10px;
+     }
+
+     .someCommitFirstBlock h2 {
+         text-align: left;
+         padding: 20px;
+     }
+
+     .someCommitThreeBlock p {
+         max-width: 90%;
+     }
+
+     header a {
+         padding: 0;
+     }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+ }

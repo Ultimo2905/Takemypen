@@ -1,0 +1,70 @@
+.menu-container {
+  position: absolute;
+  width: 5rem;
+  height: 5rem;
+  overflow: hidden;
+  left: 0;
+  top: 0;
+  transition-delay: 0.3s;
+}
+.menu {
+  position: relative;
+  width: 10rem;
+  height: 10rem;
+  background-color: #3cb3b3;
+  transform: translate(-50%, -50%);
+  transition: all 0.3s;
+}
+#hamburger {
+  display: none;
+}
+label {
+  position: absolute;
+  width: 10rem;
+  height: 10rem;
+  transform: translate(-50%, -50%);
+  z-index: 99;
+  cursor: pointer;
+  tap-highlight-color: transparent;
+}
+label:before {
+  content: "";
+  position: absolute;
+  top: 65%;
+  left: 65%;
+  width: 1em;
+  height: 0.15em;
+  background: white;
+  box-shadow: 0 0.25em 0 0 white, 0 0.5em 0 0 white;
+  transform: scale(2);
+}
+#hamburger:checked ~ .menu-container {
+  width: 30vw;
+  height: 100vh;
+  transition-delay: 0s;
+}
+#hamburger:checked ~ .menu-container .menu {
+  width: 350px;
+  height: 100%;
+  transition: all 0.3s;
+}
+.menu-container .links {
+  position: absolute;
+  left: 120px;
+  top: 250px;
+  z-index: 3;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.menu-container .links a {
+  display: block;
+  color: white;
+  font-size: 2rem;
+  text-decoration: none;
+  margin: 3rem;
+}
+#hamburger:checked ~ .content {
+  padding-left: 35vw;
+  transition: all 0.2s;
+  transition-delay: 0s;
+}

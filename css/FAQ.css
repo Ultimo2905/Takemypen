@@ -1,0 +1,681 @@
+body {
+    /*    width: 1920px;*/
+    margin: 0;
+    max-width: 1920px;
+    overflow-x: hidden;
+}
+
+header {
+    width: 100%;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    background: #EAE7E2;
+    z-index: 66;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    width: 210px;
+    height: 45px;
+    margin: 10px 17px 9px 50px;
+}
+
+    .logo svg {
+        max-height: 60px;
+    }
+
+    .logo p {
+        font-family: Cinzel Decorative;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 32px;
+        color: #4E4E4E;
+        margin: 0 0 0 10px;
+    }
+
+.logoLink {
+    display: block;
+}
+
+    .logoLink:hover {
+        text-decoration: none;
+    }
+
+header ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin: 0;
+    padding-top: 20px;
+}
+
+li a {
+    text-decoration: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4E4E4E;
+}
+
+.takemypenTitle {
+    padding-top: 20px;
+}
+
+.navBar {
+    width: 70%;
+}
+
+    /*.navBar li:first-child {
+    padding-left: 10%;
+}*/
+
+    .navBar li {
+        margin: 0;
+    }
+
+.navBarLink a:hover {
+    color: rgba(60, 179, 179, 0.95);
+    list-style: none;
+    text-decoration: none;
+}
+
+header a {
+    text-decoration: none;
+    list-style: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4E4E4E;
+}
+
+/*header end*/
+
+
+/*footer start*/
+footer {
+    width: 100%;
+    height: 100%;
+    background: #3CB3B3;
+    z-index: 66;
+}
+
+.footerInfo {
+    margin: 49px 0 0 7%;
+}
+
+.footerInfo h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    text-align: left;
+    margin: 0 0 10px 0;
+}
+
+.footerFirstBlock {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footerPhoneBlock {
+    display: flex;
+    flex-direction: column;
+    padding: 55px 0 0 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11.8366px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+.hidenBoxFooter {
+    display: none;
+    list-style: none;
+    justify-content: center;
+}
+    .hidenBoxFooter a {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 8px;
+        line-height: 8px;
+        text-align: center;
+        color: #FFFFFF;
+        text-decoration: none;
+        padding-left: 10px;
+    }
+.hidenBoxFooter a:hover {
+    color: #606060;
+    list-style: none;
+    text-decoration: none;
+}
+    .hidenBoxFooter span {
+        font-size: 8px;
+        line-height: 8px;
+        color:#fff;
+    }
+    span img {
+        font-size: 8px;
+        line-height: 8px;
+        color: #fff;
+    }
+
+.contactUsLink {
+    margin: 55px 0 0 33%;
+}
+
+.contactUsLink a {
+    width: 184px;
+    height: 39px;
+    background: #3CB3B3;
+    color: #fff;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    padding: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.contactUsLink a:hover {
+    background: #fff;
+    color: #3CB3B3;
+    text-decoration: none;
+}
+
+.pipleBlockImgAndText p:nth-child(2) {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: rgba(0, 0, 0, 0.77);
+    text-align: left;
+}
+
+.pipleBlockImgAndText p:nth-child(3) {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #606060;
+    text-align: left;
+}
+
+/*button:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25)
+}*/
+.footerInfoLinksLi a:hover {
+    color: #606060;
+    list-style: none;
+    text-decoration: none;
+}
+.footerLinkImg {
+    margin: 67px 10px 0 25%;
+}
+
+.footerLinkImg a {
+    padding-left: 26px;
+}
+
+.verticalline {
+    padding: 40px 0 0 10px;
+}
+
+.footerInfoLinks {}
+
+.footerInfoLinks ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+
+}
+
+.footerInfoLinksLi a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-left: 65px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.footerInfoLeftLink a:nth-child(2) {
+    padding-left: 20px;
+}
+
+/*hidenBox start*/
+.hidenBox {
+    display: none;
+}
+
+.menu-container {
+    position: absolute;
+    width: 4rem;
+    height: 4rem;
+    overflow: hidden;
+    left: 0;
+    top: 0;
+    transition-delay: 0.3s;
+}
+
+.menu {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    background-color: #3cb3b3;
+    transform: translate(-50%, -50%);
+    transition: all 0.3s;
+}
+
+#hamburger {
+    display: none;
+}
+
+.hidenBox label {
+    position: absolute;
+    width: 7rem;
+    height: 7rem;
+    transform: translate(-50%, -50%);
+    z-index: 99;
+    cursor: pointer;
+    tap-highlight-color: transparent;
+}
+
+.hidenBox label:before {
+    content: "";
+    position: absolute;
+    top: 65%;
+    left: 65%;
+    width: 1em;
+    height: 0.15em;
+    background: white;
+    box-shadow: 0 0.25em 0 0 white, 0 0.5em 0 0 white;
+    transform: scale(2);
+}
+
+#hamburger:checked~.menu-container {
+    width: 300px;
+    height: 150vh;
+    transition-delay: 0s;
+}
+
+    #hamburger:checked ~ .menu-container .menu {
+        width: 380px;
+        height: 800px;
+        transition: all 0.3s;
+    }
+
+.menu-container .links {
+    position: absolute;
+    left: 90px;
+    top: 240px;
+    z-index: 3;
+    transform: translate(-50%, -50%);
+    text-align: right;
+    max-width: 300px;
+    width: 140px;
+}
+
+    .menu-container .links a {
+        display: block;
+        color: white;
+        font-size: 16px;
+        text-decoration: none;
+        margin-bottom: 10px;
+        padding: 0;
+    }
+
+#hamburger:checked~.content {
+    padding-left: 35vw;
+    transition: all 0.2s;
+    transition-delay: 0s;
+}
+
+
+
+/*accordion*/
+.accordion {
+    position: relative;
+    width: 70%;
+    margin: 100px auto;
+    height: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.trigger {
+    background: rgba(60, 179, 179, 0.17);
+}
+
+.checkbox p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #606060;
+    text-align: left;
+    margin: 1rem;
+}
+.checkbox p:hover {
+    color:black;
+}
+
+.accordion .trigger #checkbox-1,
+.accordion .trigger #checkbox-2,
+.accordion .trigger #checkbox-3,
+.accordion .trigger #checkbox-4,
+.accordion .trigger #checkbox-5,
+.accordion .trigger #checkbox-6,
+.accordion .trigger #checkbox-7,
+.accordion .trigger #checkbox-8,
+.accordion .trigger #checkbox-9,
+.accordion .trigger #checkbox-10 {
+    display: none;
+}
+
+.accordion .trigger #checkbox-1:checked+label,
+.accordion .trigger #checkbox-2:checked+label,
+.accordion .trigger #checkbox-3:checked+label,
+.accordion .trigger #checkbox-4:checked+label,
+.accordion .trigger #checkbox-5:checked+label,
+.accordion .trigger #checkbox-6:checked+label,
+.accordion .trigger #checkbox-7:checked+label,
+.accordion .trigger #checkbox-8:checked+label,
+.accordion .trigger #checkbox-9:checked+label,
+.accordion .trigger #checkbox-10:checked+label {
+    /*background-color: slategray;*/
+}
+
+.accordion .trigger #checkbox-1:checked+label i:before,
+.accordion .trigger #checkbox-2:checked+label i:before,
+.accordion .trigger #checkbox-3:checked+label i:before,
+.accordion .trigger #checkbox-4:checked+label i:before,
+.accordion .trigger #checkbox-5:checked+label i:before,
+.accordion .trigger #checkbox-6:checked+label i:before,
+.accordion .trigger #checkbox-7:checked+label i:before,
+.accordion .trigger #checkbox-8:checked+label i:before,
+.accordion .trigger #checkbox-9:checked+label i:before,
+.accordion .trigger #checkbox-10:checked+label i:before {
+    transform: translate(5px, 8px) rotate(45deg);
+}
+
+.accordion .trigger #checkbox-1:checked+label i:after,
+.accordion .trigger #checkbox-2:checked+label i:after,
+.accordion .trigger #checkbox-3:checked+label i:after,
+.accordion .trigger #checkbox-4:checked+label i:after,
+.accordion .trigger #checkbox-5:checked+label i:after,
+.accordion .trigger #checkbox-6:checked+label i:after,
+.accordion .trigger #checkbox-7:checked+label i:after,
+.accordion .trigger #checkbox-8:checked+label i:after,
+.accordion .trigger #checkbox-9:checked+label i:after,
+.accordion .trigger #checkbox-10:checked+label i:after {
+    transform: translate(-5px, 8px) rotate(-45deg);
+}
+
+.accordion .trigger .checkbox {
+    /*position: relative;*/
+    display: block;
+    width: 70%;
+    margin: 0;
+    padding: 20px;
+    color: white;
+    cursor: pointer;
+    /*    background-color: #434d57;*/
+    margin: auto;
+}
+
+.accordion .trigger .checkbox img {
+    position: absolute;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    right: 20px;
+}
+
+.accordion .trigger .checkbox img:before,
+.accordion .trigger .checkbox img:after {
+    position: absolute;
+    content: '';
+    width: 16px;
+    height: 3px;
+    background-color: white;
+    transition: transform 250ms ease;
+}
+
+.accordion .trigger .checkbox img:before {
+    transform: translate(-5px, 8px) rotate(45deg);
+}
+
+.accordion .trigger .checkbox img:after {
+    transform: translate(5px, 8px) rotate(-45deg);
+}
+
+.accordion .trigger .content {
+    position: relative;
+    max-height: 1px;
+    padding: 0;
+    overflow-y: hidden;
+    font-size: 14px;
+    line-height: 1.5;
+    background-color: whitesmoke;
+    transition: max-height 500ms ease-in-out;
+}
+
+.accordion .trigger .content h3 {
+    margin: 30px 0 15px 30px;
+}
+
+.accordion .trigger .content p {
+    margin: 30px;
+}
+
+#checkbox-1:checked~.content,
+#checkbox-2:checked~.content,
+#checkbox-3:checked~.content,
+#checkbox-4:checked~.content,
+#checkbox-5:checked~.content,
+#checkbox-6:checked~.content,
+#checkbox-7:checked~.content,
+#checkbox-8:checked~.content,
+#checkbox-9:checked~.content,
+#checkbox-10:checked~.content {
+    max-height: 500px;
+    transition: max-height 500ms ease-in-out;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.contentGrafikaBlockButtonAndIkon a {
+    margin: 10px 0 10px 16%;
+    position: absolute;
+}
+
+.contentGrafikaBlockButtonAndIkon img {
+    transition-duration: 3s;
+    transition-delay: 3s;
+    animation: fade-in 7s linear;
+    margin: 0 0 0 51.5%;
+    width: 30px;
+}
+
+.content p {
+    line-height: 28px;
+    color: #606060;
+    text-align: left;
+    font-size: 24px;
+}
+
+
+/*blockform*/
+.blockForm {
+    width: 100%;
+    height: 220px;
+    background: #87D3D3;
+    text-align: center;
+}
+
+.blockForm h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 140.19%;
+    color: #FFFFFF;
+    padding-top: 28px;
+}
+
+.formSubscribe {
+    display: flex;
+    justify-content: center;
+}
+
+.formSubscribe form {
+    display: flex;
+}
+
+.emailIinformation input {
+    width: 430px;
+    height: 48px;
+    border-radius: 10px;
+}
+
+.buttonSubmit button {
+    height: 52px;
+    width: 160px;
+    background: #3CB3B3;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 140.19%;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+
+.buttonSubmit {
+    padding: 1px 0 0 68px;
+    margin-bottom: 60px;
+}
+
+#arowSize {
+    font-size: 20px;
+}
+
+
+
+/*Responsive Hamburger Menu*/
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400);
+
+
+#menu-button {
+    position: fixed;
+    top: 0px;
+    left: -1px;
+    display: block;
+    width: 64px;
+    height: 64px;
+    background: #3cb3b3;
+    border-radius: 5px;
+    z-index: 200;
+}
+
+    #menu-button:after {
+        position: absolute;
+        content: "☰";
+        font-size: 44px;
+        color: #fff;
+        width: 64px;
+        height: 64px;
+        text-align: center;
+        line-height: 65px;
+    }
+
+    #menu-button:hover {
+        opacity: 0.8;
+    }
+
+    #menu-button.on:after {
+        content: "x";
+    }
+
+#overlay {
+    display: none;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    opacity: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+    #overlay.open {
+        display: block;
+    }
+
+#hamburger-menu {
+    position: fixed;
+    top: 20px;
+    left: 90px;
+    z-index: 101;
+    overflow: hidden;
+    border-radius: 5px;
+    width: 0;
+    height: 0;
+}
+
+    #hamburger-menu nav {
+        padding: 10px;
+        z-index: 101;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        background-color: #3cb3b3;
+        border-radius: 10px;
+        height: 300px;
+    }
+
+        #hamburger-menu nav a {
+            display: block;
+            padding: 10px;
+            /*height: 1em;*/
+            color: #fff;
+            font-size: 1em;
+            line-height: 1em;
+            text-decoration: none;
+            overflow: hidden;
+        }
+
+            #hamburger-menu nav a:hover {
+                cursor: pointer;
+                color: #fff;
+}

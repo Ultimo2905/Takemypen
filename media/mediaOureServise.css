@@ -1,0 +1,993 @@
+ @media (min-width: 1600px) and (max-width: 1745px) {
+     .littleBlockPAndImgMain {
+         margin: 90px 0 0 39%;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 10%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 29%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 20%;
+
+     }
+ }
+@media (min-width: 1520px) and (max-width: 1610px) {
+    .littleBlockPAndImgMain {
+        margin: 90px 0 0 39%;
+    }
+
+    .footerInfo {
+        margin: 49px 0 0 10%;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 29%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 15%;
+    }
+}
+
+ @media (min-width: 1310px) and (max-width: 1520px) {
+     header a {
+         padding-left: 40px;
+     }
+    header ul {
+    margin-left: 0px;
+    }
+     .logoLink {
+         padding: 0;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 4%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 30%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 15%;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+ }
+
+ @media (min-width: 1224px) and (max-width: 1309px) {
+     header a {
+         padding-left: 30px;
+     }
+    header ul {
+        margin-left: 0px;
+    }
+     .logoLink {
+         padding: 0;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 4%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 30%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 15%;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+
+     .secondBlock {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .secondBlocktitle {
+         text-align: right;
+         padding: 150px 0 0 95px;
+         max-width: 83%;
+     }
+
+
+     .Check {
+
+         margin-top: 110px;
+         height: 100%;
+         padding-bottom: 110px;
+     }
+     
+    /* .ProofreadingLink {*/
+    /*     padding: 100px 10px 0 270px;*/
+    /*     background-size: contain;*/
+    /* }*/
+    /* .ProofreadingLink p:first-child {*/
+    /*    font-size: 40px;*/
+    /*    line-height: 40px;*/
+    /* }*/
+    /* .editingLinkAndText {*/
+    /*    padding: 100px 10px 0 240px;*/
+    /*    background-size: contain;*/
+    /*}*/
+    /* .editingLinkAndText p:first-child {*/
+    /*    font-size: 40px;*/
+    /*    line-height: 40px;*/
+    /*}*/
+    /*.writingLinkAndText {*/
+    /*    padding: 100px 0 0 0;*/
+    /*    background-size: contain;*/
+    /*}*/
+    /*.writingLinkAndText p:first-child {*/
+    /*    font-size: 40px;*/
+    /*    line-height: 40px;*/
+
+    /*}*/
+    /*.reWritingLink {*/
+    /*    padding: 100px 270px 0 0;*/
+    /*    background-size: contain;*/
+    /*}*/
+
+ }
+
+ @media (min-width: 1000px) and (max-width: 1223px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .wrapper {
+         width: 100%;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+     }
+
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+
+     .lastLine {
+         display: none;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+
+     .secondBlock {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .secondBlocktitle {
+         text-align: right;
+         padding: 150px 0 0 95px;
+         max-width: 83%;
+     }
+
+     .Check {
+
+         margin-top: 110px;
+         height: 100%;
+         padding-bottom: 110px;
+     }
+
+     .blockMosaicaLeft {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .blockMosaica {
+         flex-wrap: wrap;
+     }
+
+     .blockMosaicaLeftOne {
+         width: 590px;
+     }
+
+     .blockMosaicaLeftTwo {
+         width: 590px;
+     }
+
+     .blockMosaicaRight {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .benefitsAndText ul {
+         flex-wrap: wrap;
+     }
+
+     .sectionWithH {
+         text-align: center;
+     }
+
+     .headtitle p {
+         font-size: 24px;
+         line-height: 28px;
+     }
+
+     #circleTimer {
+         max-width: 30%;
+     }
+ }
+
+ @media (min-width: 860px) and (max-width: 999px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .wrapper {
+         width: 100%;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+     }
+
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+     .lastLine {
+         display: none;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+
+     .secondBlock {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .secondBlocktitle {
+         text-align: right;
+         padding: 150px 0 0 95px;
+         max-width: 83%;
+     }
+
+     .Check {
+
+         margin-top: 110px;
+         height: 100%;
+         padding-bottom: 110px;
+     }
+
+     .blockMosaicaLeft {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .blockMosaica {
+         flex-wrap: wrap;
+     }
+
+     .blockMosaicaLeftOne {
+         width: 590px;
+     }
+
+     .blockMosaicaLeftTwo {
+         width: 590px;
+     }
+
+     .blockMosaicaRight {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .benefitsAndText ul {
+         flex-wrap: wrap;
+     }
+
+     .sectionWithH {
+         text-align: center;
+     }
+
+     .headtitle p {
+         font-size: 24px;
+         line-height: 28px;
+         margin: auto;
+         text-align: left;
+         padding: 0;
+     }
+
+     #circleTimer {
+         max-width: 50%;
+     }
+
+     .headtitle h1 {
+         font-weight: 50;
+         font-size: 88px;
+         padding: 80px 0 0 0;
+     }
+
+     .headtitle {
+         text-align: center;
+     }
+ }
+
+ @media (min-width: 580px) and (max-width: 859px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .wrapper {
+         width: 100%;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+     }
+
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .buttonSubmit {
+         padding: 0 ;
+         margin: 20px;
+
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+     .lastLine {
+         display: none;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+
+     .secondBlock {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .secondBlocktitle {
+         text-align: right;
+         padding: 150px 0 0 95px;
+         max-width: 83%;
+     }
+
+     .Check {
+
+         margin-top: 110px;
+         height: 100%;
+         padding-bottom: 110px;
+     }
+
+     .blockMosaicaLeft {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .blockMosaica {
+         flex-wrap: wrap;
+     }
+
+     .blockMosaicaLeftOne {
+         width: 590px;
+     }
+
+     .blockMosaicaLeftTwo {
+         width: 590px;
+     }
+
+     .blockMosaicaRight {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .benefitsAndText ul {
+         flex-wrap: wrap;
+     }
+
+     .sectionWithH {
+         text-align: center;
+     }
+
+     .headtitle p {
+         font-size: 20px;
+         line-height: 22px;
+         margin: auto;
+         text-align: left;
+         padding: 0;
+         width: 80%;
+     }
+
+     #circleTimer {
+         max-width: 50%;
+     }
+
+     .headtitle h1 {
+         font-weight: 40;
+         font-size: 60px;
+         padding: 60px 0 0 0;
+     }
+
+     .headtitle {
+         text-align: center;
+         height: 380px;
+     }
+
+     .reWritingLink,
+     .ProofreadingLink,
+     .editingLinkAndText,
+     .writingLinkAndText {
+         width: 550px;
+         height: 400px;
+         padding: 0;
+         margin: auto;
+     }
+
+     .reWritingLink p:first-child,
+     .writingLinkAndText p:first-child {
+         text-align: left;
+         padding: 50px;
+         margin: 0;
+     }
+
+     .reWritingLink p:nth-child(2) {
+         max-width: 400px;
+         text-align: left;
+         padding-left: 50px;
+         margin: 0;
+         font-size: 24px;
+         line-height: 28px;
+     }
+
+     .ProofreadingLink p:first-child,
+     .editingLinkAndText p:first-child {
+         padding: 50px 15px 25px 0;
+         margin: 0;
+         text-align: right;
+     }
+
+     .ProofreadingLink p:nth-child(2),
+     .editingLinkAndText p:nth-child(2) {
+         max-width: 400px;
+         text-align: right;
+         margin: 0 0 0 130px;
+         font-size: 24px;
+         line-height: 28px;
+     }
+
+     .writingLinkAndText p:nth-child(2) {
+         max-width: 350px;
+         text-align: left;
+         padding-left: 50px;
+         margin: 0;
+         font-size: 24px;
+         line-height: 28px;
+     }
+
+     .formSubscribe form {
+         flex-wrap: wrap;
+         justify-content: center;
+         flex-direction: column;
+     }
+
+     .accordion .trigger .checkbox {
+         width: 90%;
+     }
+
+
+
+     #checkbox-1:checked~.content,
+     #checkbox-2:checked~.content,
+     #checkbox-3:checked~.content {
+         max-height: 100%;
+         transition: max-height 1500ms ease-in-out;
+
+     }
+
+     .reWritingLink p:first-child {
+         font-size: 32px;
+         line-height: 36px;
+         max-width: 80%;
+     }
+
+     .ProofreadingLink p:first-child {
+         font-size: 32px;
+         line-height: 36px;
+         max-width: 80%;
+         padding: 50px 0px 25px 180px;
+         text-align: left;
+     }
+
+     .editingLinkAndText p:first-child {
+         font-size: 32px;
+         line-height: 36px;
+         max-width: 80%;
+         padding: 50px 0px 25px 180px;
+         text-align: left;
+     }
+
+     .writingLinkAndText p:first-child {
+         font-size: 32px;
+         line-height: 36px;
+         max-width: 78%;
+     }
+ }
+
+ @media (min-width: 320px) and (max-width: 579px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .wrapper {
+         width: 100%;
+     }
+
+     .logo {
+         margin: 10px 17px 9px 75px;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+     }
+
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+     .lastLine {
+         display: none;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+
+     .secondBlock {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .secondBlocktitle {
+         text-align: right;
+         padding: 150px 0 0 95px;
+         max-width: 83%;
+     }
+
+     .Check {
+
+         margin-top: 110px;
+         height: 100%;
+         padding-bottom: 110px;
+     }
+
+     .blockMosaicaLeft {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .blockMosaica {
+         flex-wrap: wrap;
+     }
+
+     .blockMosaicaLeftOne {
+         width: 590px;
+     }
+
+     .blockMosaicaLeftTwo {
+         width: 590px;
+     }
+
+     .blockMosaicaRight {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .benefitsAndText ul {
+         flex-wrap: wrap;
+     }
+
+     .sectionWithH {
+         text-align: center;
+     }
+
+     .headtitle p {
+         font-size: 20px;
+         line-height: 22px;
+         margin: auto;
+         text-align: left;
+         padding: 0;
+         width: 80%;
+     }
+
+     #circleTimer {
+         max-width: 100%;
+     }
+
+     .headtitle h1 {
+         font-weight: 700;
+         font-size: 36px;
+         padding: 60px 0 0 0;
+     }
+
+     .headtitle {
+         text-align: center;
+         height: 380px;
+     }
+
+     .reWritingLink,
+     .ProofreadingLink,
+     .editingLinkAndText,
+     .writingLinkAndText {
+         width: 320px;
+         height: 215px;
+         padding: 0;
+         margin: auto;
+     }
+
+     .reWritingLink p:first-child,
+     .writingLinkAndText p:first-child {
+         font-size: 32px;
+         line-height: 12px;
+         padding: 20px;
+         text-align: left;
+     }
+
+     .reWritingLink p:nth-child(2) {
+         max-width: 230px;
+         text-align: left;
+         padding-left: 20px;
+         margin: 0;
+         font-size: 16px;
+         line-height: 16px;
+     }
+
+     .ProofreadingLink p:first-child,
+     .editingLinkAndText p:first-child {
+         margin: 0;
+         text-align: right;
+         font-size: 60px;
+         line-height: 42px;
+         font-size: 32px;
+         line-height: 12px;
+         padding: 20px;
+     }
+
+     .ProofreadingLink p:nth-child(2),
+     .editingLinkAndText p:nth-child(2) {
+         max-width: 200px;
+         margin: 0 20px 0 auto;
+         font-size: 16px;
+         line-height: 16px;
+     }
+
+     .writingLinkAndText p:nth-child(2) {
+         max-width: 200px;
+         text-align: left;
+         padding-left: 20px;
+         margin: 0;
+         font-size: 16px;
+         line-height: 16px;
+     }
+
+     .textOureStats h3 {
+         font-size: 36px;
+         line-height: 28px;
+         margin: 20px auto;
+     }
+
+     .textOureStats p {
+         padding: 0;
+         font-size: 20px;
+         line-height: 22px;
+         width: 90%;
+         margin: auto;
+     }
+
+     #checkbox-1:checked~.content,
+     #checkbox-2:checked~.content,
+     #checkbox-3:checked~.content {
+         max-height: 100%;
+         transition: max-height 1500ms ease-in-out;
+
+     }
+
+     .formSubscribe form {
+         flex-wrap: wrap;
+         justify-content: center;
+         flex-direction: column;
+     }
+
+     .emailIinformation input {
+         width: 250px;
+     }
+
+        .buttonSubmit {
+         padding: 0 ;
+         margin: 0 0 40px 0;
+
+     }
+
+     .counter-inner {
+         padding: 10px 50px 35px;
+     }
+
+     .accordion .trigger .checkbox {
+         width: 90%;
+        padding: 15px;
+     }
+
+
+
+     #checkbox-1:checked~.content,
+     #checkbox-2:checked~.content,
+     #checkbox-3:checked~.content {
+         max-height: 100%;
+         transition: max-height 1500ms ease-in-out;
+
+     }
+
+     .reWritingLink p:first-child {
+         font-size: 22px;
+         line-height: 24px;
+         max-width: 80%;
+         padding-top: 50px;
+     }
+
+     .ProofreadingLink p:first-child {
+         font-size: 22px;
+         line-height: 24px;
+         max-width: 80%;
+         padding: 50px 0px 25px 100px;
+         text-align: left;
+     }
+
+     .editingLinkAndText p:first-child {
+         font-size: 22px;
+         line-height: 24px;
+         max-width: 80%;
+         padding: 40px 0px 25px 100px;
+         text-align: left;
+     }
+
+     .writingLinkAndText p:first-child {
+         font-size: 22px;
+         line-height: 24px;
+         max-width: 78%;
+         padding-top: 50px;
+     }
+     .emailIinformation{
+        margin-bottom: 20px;
+     }
+     .buttonSubmit button {
+        margin-bottom: 0;
+     }
+     table {
+        width: 80%;
+         
+     }
+    .blockForm h4 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+ }

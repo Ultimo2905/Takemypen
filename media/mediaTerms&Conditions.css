@@ -1,0 +1,229 @@
+ @media (min-width: 1550px) and (max-width: 1720px) {
+     .footerInfo {
+         margin: 49px 0 0 10%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 29%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 16%;
+
+     }
+ }
+
+ @media (min-width: 1360px) and (max-width: 1549px) {
+     .navBar li:first-child {
+         padding-left: 0;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 3%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 33%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 19%;
+     }
+ }
+
+ @media (min-width: 1224px) and (max-width: 1359px) {
+     header a {
+         padding-left: 0;
+     }
+
+     .navBar li:first-child {
+         padding-left: 3%;
+     }
+
+
+     .footerInfo {
+         margin: 49px 0 0 4%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 30%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 15%;
+     }
+ }
+
+ @media (min-width: 550px) and (max-width: 1223px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+         position: absolute;
+         top: -65px;
+         left: 0;
+     }
+
+     .texBlock {
+         padding: 20px;
+         width: auto;
+     }
+
+     label {
+         top: 73px;
+         left: 8px;
+     }
+
+     .menu-container {
+         top: 64px;
+     }
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+ }
+
+ @media (min-width: 320px) and (max-width: 549px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .logo {
+         margin: 10px 17px 9px 75px;
+     }
+
+     .hidenBox {
+         display: block;
+         top: -65px;
+         left: 0;
+         position: absolute;
+     }
+
+    .texBlock {
+        padding: 20px;
+        width: auto;
+        margin-top: 50px;
+    }
+
+     label {
+         top: 73px;
+         left: 8px;
+     }
+
+     .menu-container {
+         top: 64px;
+     }
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+
+     .contactUsForm {
+         width: 290px;
+     }
+
+     .contactUsForm p {
+         max-width: 270px;
+     }
+
+     .emailIinformation input {
+         margin-left: 5px;
+     }
+
+     header a {
+         padding: 0;
+     }
+
+     .texBlock pre {
+         font-size: 12px;
+     }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+ }

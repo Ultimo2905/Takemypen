@@ -1,0 +1,793 @@
+ @media (min-width: 1680px) and (max-width: 1745px) {
+     .littleBlockPAndImgMain {
+         margin: 90px 0 0 39%;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 10%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 29%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 20%;
+
+     }
+ }
+
+ @media (min-width: 1580px) and (max-width: 1679px) {
+     .littleBlockPAndImgMain {
+         margin: 90px 0 0 39%;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 10%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 28%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 17%;
+
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+ }
+
+ @media (min-width: 1300px) and (max-width: 1579px) {
+     header a {
+         padding-left: 40px;
+     }
+
+     .logoLink {
+         padding: 0;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 4%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 30%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 15%;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+ }
+
+ @media (min-width: 1224px) and (max-width: 1299px) {
+     header a {
+         padding-left: 30px;
+     }
+
+     .logoLink {
+         padding: 0;
+     }
+
+     .footerInfo {
+         margin: 49px 0 0 4%;
+     }
+
+     .contactUsLink {
+         margin: 55px 0 0 30%;
+     }
+
+     .footerLinkImg {
+         margin: 67px 10px 0 15%;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+
+     .secondBlock {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .secondBlocktitle {
+         text-align: right;
+         padding: 150px 0 0 95px;
+         max-width: 83%;
+     }
+
+
+     .Check {
+
+         margin-top: 110px;
+         height: 100%;
+         padding-bottom: 110px;
+     }
+    .secondBlocktitle {
+        text-align: left;
+        padding: 0;
+        max-width: 100%;
+        margin: 20px;
+    }
+
+        .secondBlocktitle p:nth-child(3) {
+            text-align: left;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 24px;
+            line-height: 36px;
+            color: #606060;
+            margin: 0;
+        }
+
+ }
+
+ @media (min-width: 980px) and (max-width: 1223px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .wrapper {
+         width: 100%;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+     }
+
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+
+     .lastLine {
+         display: none;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+
+     .secondBlock {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+    .secondBlocktitle {
+        text-align: left;
+        padding: 0;
+        max-width: 100%;
+        margin: 20px;
+    }
+        .secondBlocktitle p:nth-child(3) {
+            text-align: left;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 24px;
+            line-height: 36px;
+            color: #606060;
+            margin: 0;
+        }
+
+        .Check {
+            margin-top: 110px;
+            height: 100%;
+            padding-bottom: 110px;
+        }
+
+     .blockMosaicaLeft {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .blockMosaica {
+         flex-wrap: wrap;
+     }
+
+     .blockMosaicaLeftOne {
+         width: 590px;
+     }
+
+     .blockMosaicaRightOne {
+         width: 590px;
+     }
+
+     .blockMosaicaLeftTwo {
+         width: 590px;
+     }
+
+     .blockMosaicaRightTwo {
+         width: 590px;
+     }
+
+     .blockMosaicaRight {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+     }
+
+     .benefitsAndText ul {
+         flex-wrap: wrap;
+     }
+
+     .sectionWithH {
+         text-align: center;
+     }
+
+     .headtitle p {
+         font-size: 24px;
+         line-height: 28px;
+     }
+
+     .secondBlockSameForAll {
+         margin: 40px 0 0 50%;
+     }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+ }
+
+ @media (min-width: 480px) and (max-width: 979px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .secondBlocktitle img {
+         max-width: 80%;
+     }
+
+     .wrapper {
+         width: 100%;
+     }
+
+     .logo {
+         margin: 10px 17px 9px 75px;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+     }
+
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+
+     .lastLine {
+         display: none;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+
+     .secondBlock {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .secondBlocktitle {
+         text-align: left;
+         padding: 150px 0 0 25px;
+         max-width: 100%;
+     }
+
+     .Check {
+
+         margin-top: 110px;
+         height: 100%;
+         padding-bottom: 110px;
+     }
+
+     .blockMosaicaLeft {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+         width: 100%;
+     }
+
+     .blockMosaica {
+         flex-wrap: wrap;
+     }
+
+     .blockMosaicaLeftOne,
+     .blockMosaicaRightOne,
+     .blockMosaicaLeftTwo,
+     .blockMosaicaRightTwo {
+         width: 85%;
+     }
+
+     .blockMosaicaRight {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+         width: 100%;
+     }
+
+     .benefitsAndText ul {
+         flex-wrap: wrap;
+     }
+
+     .sectionWithH {
+         text-align: center;
+     }
+
+     .headtitle p {
+         font-size: 24px;
+         line-height: 28px;
+     }
+
+     .headtitle h1 {
+         font-size: 60px;
+         line-height: 160px;
+     }
+
+     .headtitle p {
+         max-width: 90%;
+         margin: 0;
+         text-align: right;
+         padding: 0;
+     }
+
+     .secondBlockImg img {
+         width: 100%
+     }
+
+     .secondBlocktitle h3 {
+         font-size: 40px;
+         line-height: 44px;
+     }
+
+    .secondBlocktitle p:nth-child(3) {
+        font-size: 24px;
+        line-height: 33px;
+        text-align: left;
+    }
+
+     .benefitsAndText li {
+         font-size: 22px;
+         line-height: 40px;
+     }
+
+     .blockMosaicaRightTwo h4,
+     .blockMosaicaLeftTwo h4,
+     .blockMosaicaLeftOne h4,
+     .blockMosaicaRightOne h4 {
+         text-align: center;
+         padding: 20px 0 0 0;
+         margin: 0;
+         font-size: 28px;
+         line-height: 24px;
+         max-width: 96%;
+         margin: 0;
+         width: 95%;
+     }
+
+     .secondBlockSameForAll {
+         margin-left: auto;
+     }
+
+     .imgPipl {
+         width: 100%;
+     }
+
+     .pipleBlockImgAndText p:nth-child(2) {
+         text-align: center;
+         margin: 20px;
+     }
+
+     .pipleBlockImgAndText p:nth-child(3) {
+         width: 90%;
+         margin: auto;
+         margin-bottom: 20px;
+         font-size: 18px;
+         line-height: 20px;
+         text-align: center;
+     }
+    .seoLotText p {
+         
+         max-width: 100%; 
+        font-size: 24px; 
+         line-height: 33px; 
+    }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+    .lastLine {
+        display: none;
+    }
+ }
+
+ @media (min-width: 320px) and (max-width: 479px) {
+     header {
+         justify-content: center;
+         position: fixed;
+     }
+
+     .secondBlocktitle img {
+         max-width: 80%;
+     }
+
+     .wrapper {
+         width: 100%;
+     }
+
+     .navBar {
+         display: none;
+     }
+
+     .hidenBox {
+         display: block;
+     }
+
+
+     .footerFirstBlock {
+         flex-direction: column;
+         align-items: center;
+     }
+
+     .footerChekLine {
+         display: none;
+     }
+
+     .footerInfoLinks {
+         display: none;
+     }
+
+     .verticalline {
+         display: none;
+     }
+
+     .footerInfo {
+         margin: 20px;
+         text-align: center;
+     }
+
+     .contactUsLink {
+         margin: 20px;
+     }
+
+     .footerLinkImg {
+         margin: 20px;
+     }
+
+     .footerLinkImg a:first-child {
+         padding: 0;
+     }
+
+     .footerPhoneBlock {
+         padding: 20px;
+     }
+
+     .lastLine {
+         display: none;
+     }
+
+     .english img {
+         width: 100%;
+     }
+
+     .german img {
+         width: 100%;
+     }
+
+     .secondBlock {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .secondBlocktitle {
+         text-align: left;
+         padding: 150px 0 0 25px;
+         max-width: 80%;
+     }
+
+     .Check {
+
+         margin-top: 110px;
+         height: 100%;
+         padding-bottom: 110px;
+     }
+
+     .blockMosaicaLeft {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+         width: 100%;
+     }
+
+     .blockMosaica {
+         flex-wrap: wrap;
+     }
+
+     .blockMosaicaLeftOne,
+     .blockMosaicaRightOne,
+     .blockMosaicaLeftTwo,
+     .blockMosaicaRightTwo {
+         width: 95%;
+         height: 310px;
+         background-size: cover;
+     }
+
+     .blockMosaicaRight {
+         display: flex;
+         flex-direction: column;
+         flex-basis: 100%;
+         align-items: center;
+         width: 100%;
+     }
+
+     .benefitsAndText ul {
+         flex-wrap: wrap;
+     }
+
+     .sectionWithH {
+         text-align: center;
+     }
+
+     .headtitle h1 {
+         font-size: 32px;
+         line-height: 68px;
+         margin: 30px 0 30px 0;
+     }
+
+     .headtitle p {
+         max-width: 90%;
+         margin: 0;
+         text-align: right;
+         padding: 0;
+         font-size: 20px;
+         line-height: 24px;
+     }
+
+     .secondBlockImg img {
+         width: 100%
+     }
+
+     .secondBlocktitle h3 {
+         font-size: 40px;
+         line-height: 44px;
+     }
+
+    .secondBlocktitle p:nth-child(3) {
+        font-size: 24px;
+        line-height: 33px;
+        text-align: left;
+        font-size: 18px;
+        line-height: 20px;
+        margin: 0 auto;
+        padding: 20px 0 0 0;
+    }
+
+     .benefitsAndText li {
+         font-size: 22px;
+         line-height: 40px;
+     }
+
+     .blockMosaicaRightTwo h4,
+     .blockMosaicaLeftTwo h4,
+     .blockMosaicaLeftOne h4,
+     .blockMosaicaRightOne h4 {
+         text-align: left;
+         padding: 20px 0 0 5px;
+         font-size: 20px;
+         line-height: 23px;
+         max-width: 280px;
+         width: 100%;
+     }
+
+     .secondBlockSameForAll {
+         margin: auto;
+         width: 150px;
+         height: 60px;
+         margin-top: 30px;
+     }
+
+     .secondBlockSameForAll p {
+         font-size: 16px;
+         line-height: 20px;
+
+     }
+
+     .benefitLinks:hover {
+         box-shadow: none;
+         background: #3CB3B3;
+         /*border-radius: 10px;*/
+     }
+
+     .imgPipl {
+         width: 100%;
+     }
+
+     .pipleBlockImgAndText p:nth-child(2) {
+        text-align: center;
+        margin: 20px;
+        font-size: 24px;
+        line-height: 28px;
+     }
+
+    .pipleBlockImgAndText p:nth-child(3) {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 20px;
+        font-size: 18px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+     .headtitle {
+         height: 400px;
+     }
+
+     .CheckLabel {
+         max-width: 100px;
+         margin-top: 20px;
+     }
+
+     .seoLotText h4 {
+         font-size: 32px;
+         line-height: 40px;
+     }
+
+     .seoLotText p {
+         font-size: 18px;
+         line-height: 20px;
+         padding-top: 20px;
+     }
+
+     .seoLotText h3 {
+         font-size: 40px;
+         line-height: 44px;
+     }
+
+     .benefitsAndText h3 {
+         font-size: 40px;
+         line-height: 44px;
+     }
+
+     .sectionWithH h5 {
+        margin: 30px;
+        font-size: 32px;
+        line-height: 32px;
+     }
+
+     .Check h5 {
+         font-size: 40px;
+         line-height: 44px;
+         padding: 40px;
+     }
+
+    .callToAction h2 {
+        padding: 50px 0 20px 0;
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .callToAction {
+        margin-top: 60px;
+        height: 300px;
+    }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+    .lastLine {
+        display: none;
+    }
+
+ }

@@ -1,0 +1,784 @@
+body {
+    /*    width: 1920px;*/
+    margin: 0;
+    max-width: 1920px;
+    overflow-x: hidden;
+}
+
+header {
+    width: 100%;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    background: #EAE7E2;
+    z-index: 66;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    width: 210px;
+    height: 45px;
+    margin: 10px 17px 9px 50px;
+}
+
+    .logo svg {
+        max-height: 60px;
+    }
+
+    .logo p {
+        font-family: Cinzel Decorative;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 32px;
+        color: #4E4E4E;
+        margin: 0 0 0 10px;
+    }
+
+.logoLink {
+    display: block;
+}
+
+    .logoLink:hover {
+        text-decoration: none;
+    }
+
+header ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding:0;
+}
+
+li a {
+    text-decoration: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4E4E4E;
+}
+
+.takemypenTitle {
+    padding-top: 20px;
+}
+
+.navBar {
+    width: 70%;
+}
+
+    /*.navBar li:first-child {
+    padding-left: 10%;
+}*/
+
+    .navBar li {
+        margin: 0;
+    }
+
+.navBarLink a:hover {
+    color: rgba(60, 179, 179, 0.95);
+    list-style: none;
+    text-decoration: none;
+}
+
+header a {
+    text-decoration: none;
+    list-style: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4E4E4E;
+}
+
+/*header end*/
+.headtitle {
+    background-image: url(../images/editingTopBg.png);
+    background-repeat: no-repeat, repeat;
+    text-align: right;
+    height: 511px;
+}
+
+.headtitle h1 {
+    margin: 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 144px;
+    line-height: 169px;
+    color: #FFFFFF;
+    padding: 83px 150px 0 0;
+}
+
+.headtitle p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+    max-width: 700px;
+    margin: 0 0 0 auto;
+    text-align: left;
+    padding: 30px 150px 0 0;
+}
+
+.secondBlock {
+    display: flex;
+}
+
+.secondBlocktitle {
+    padding: 70px 0 0 95px;
+    max-width: 50%;
+}
+
+.secondBlocktitle p:first-child {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #3CB3B3;
+    margin: 0;
+}
+
+.secondBlocktitle h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: #606060;
+    margin: 0;
+    padding-top: 22px;
+}
+
+    .secondBlocktitle p:nth-child(3) {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 35px;
+        color: #606060;
+        margin: 0;
+        padding: 50px 30px 0 0;
+        text-align: justify;
+    }
+
+.benefitsAndText {
+    text-align: center;
+    margin: 77px 0 77px 0;
+    max-width: 100%;
+}
+
+.benefitsAndText h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    margin: 0;
+    color: #606060;
+}
+
+.benefitsAndText ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.benefitsAndText li {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 52px;
+    margin: 0;
+    color: #606060;
+    padding-right: 25px;
+
+}
+
+.blockMosaica {
+    display: flex;
+}
+
+.blockMosaicaLeft {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 50%;
+}
+
+.blockMosaicaLeftOne {
+    background-image: url(../images/blockMosaicaOne.jpg);
+    background-repeat: no-repeat, repeat;
+    height: 400px;
+}
+
+.blockMosaicaLeftOne h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    margin: 0;
+    height: 157px;
+    padding: 50px 0 20px 5%;
+    text-shadow: 1px 1px black;
+    color: #fff;
+    font-size: 32px;
+    line-height: 32px;
+    width: 80%;
+}
+
+.secondBlockSameForAll {
+    width: 238px;
+    height: 89px;
+    background: #3CB3B3;
+    border-radius: 10px;
+    margin: auto;
+    margin: 5% 0 0 50%;
+}
+.benefitLinks{
+    display: block;
+}
+.benefitLinks:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25);
+    background: #3CB3B3;
+    border-radius: 10px;
+}
+.secondBlockSameForAll p {
+    padding: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 47px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.blockMosaicaLeftTwo {
+    background-image: url(../images/blockMosaicaTwo.jpg);
+    background-repeat: no-repeat, repeat;
+    height: 400px;
+}
+
+.blockMosaicaLeftTwo h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    margin: 0;
+    height: 157px;
+    padding: 50px 0 20px 5%;
+    text-shadow: 1px 1px black;
+    color: #fff;
+    font-size: 32px;
+    line-height: 32px;
+    width: 80%;;
+}
+
+.blockMosaicaLeftTwo p {
+    padding: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 47px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+
+.blockMosaicaRight {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 50%;
+}
+
+.blockMosaicaRightOne {
+    background-image: url(../images/blockMosaicaThree.jpg);
+    background-repeat: no-repeat, repeat;
+    height: 400px;
+}
+
+.blockMosaicaRightOne h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    margin: 0;
+    height: 157px;
+    padding: 50px 0 20px 5%;
+    text-shadow: 1px 1px black;
+    color: #fff;
+    font-size: 32px;
+    line-height: 32px;
+    width: 80%;
+}
+
+.blockMosaicaRightOne p {
+    padding: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 47px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.blockMosaicaRightTwo {
+    background-image: url(../images/blockMosaicaFoure.jpg);
+    background-repeat: no-repeat, repeat;
+    height: 400px;
+}
+.benefitLinks {
+    display: block;
+    text-decoration: none;
+}
+.benefitLinks:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25);
+    background: #3CB3B3;
+    border-radius: 10px;
+}
+.blockMosaicaRightTwo h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    margin: 0;
+    height: 157px;
+    padding: 50px 0 20px 5%;
+    text-shadow: 1px 1px black;
+    color: #fff;
+    font-size: 32px;
+    line-height: 32px;
+    width: 80%;
+}
+
+.blockMosaicaRightTwo p {
+    padding: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 47px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.pipleBlock {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.imgPipl {
+    width: 500px;
+}
+
+.pipleBlockImgAndText {
+    max-width: 500px;
+    margin: 0 20px 0 20px;
+}
+
+.sectionWithH h5 {
+    margin: 70px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: rgba(0, 0, 0, 0.77);
+}
+.callToAction {
+    text-align: center;
+    height: 450px;
+    background-image: url(../images/lpGlases.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1920px;
+    background-position: center;
+}
+
+.callToAction h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #3CB3B3;
+    padding: 150px 0 55px 0;
+    text-shadow: 1px 1px black;
+}
+
+    .callToAction a {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28px;
+        width: 290px;
+        height: 66px;
+        color: #4E4E4E;
+        background: #FFFFFF;
+        border: 2px solid #3CB3B3;
+        box-sizing: border-box;
+        border-radius: 10px;
+        text-decoration: none;
+        padding: 15px 50px 15px 50px;
+    }
+
+.callToAction a:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25)
+}
+
+
+/*footer start*/
+footer {
+    width: 100%;
+    height: 100%;
+    background: #3CB3B3;
+    z-index: 66;
+}
+
+.footerInfo {
+    margin: 49px 0 0 7%;
+}
+
+.footerInfo h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    text-align: left;
+    margin: 0 0 10px 0;
+}
+
+.footerFirstBlock {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footerPhoneBlock {
+    display: flex;
+    flex-direction: column;
+    padding: 55px 0 0 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11.8366px;
+    line-height: 14px;
+    color: #FFFFFF;
+
+}
+.lastLine{
+    width:100%;
+}
+
+.contactUsLink {
+    margin: 55px 0 0 33%;
+}
+
+.contactUsLink a {
+    width: 184px;
+    height: 39px;
+    background: #3CB3B3;
+    color: #fff;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.contactUsLink a:hover {
+    background: #fff;
+    color: #3CB3B3;
+}
+
+.pipleBlockImgAndText p:nth-child(2) {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: rgba(0, 0, 0, 0.77);
+    text-align: left;
+}
+
+.pipleBlockImgAndText p:nth-child(3) {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #606060;
+    text-align: left;
+}
+
+
+.sectionWithH {
+    text-align: center;
+}
+/*button:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25)
+}*/
+
+.footerLinkImg {
+    margin: 67px 10px 0 25%;
+}
+
+.footerLinkImg a {
+    padding-left: 26px;
+}
+
+.verticalline {
+    padding: 40px 0 0 10px;
+}
+
+.footerInfoLinks {}
+
+.footerInfoLinks ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+
+}
+
+.footerInfoLinksLi a:hover {
+    color: #4E4E4E;
+}
+
+.footerInfoLinksLi a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-left: 65px;
+    text-decoration: none;
+}
+.hidenBoxFooter {
+    display: none;
+    list-style: none;
+    justify-content: center;
+}
+    .hidenBoxFooter a {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 8px;
+        line-height: 8px;
+        text-align: center;
+        color: #FFFFFF;
+        text-decoration: none;
+        padding-left: 10px;
+    }
+.hidenBoxFooter a:hover {
+    color: #606060;
+    list-style: none;
+    text-decoration: none;
+}
+    .hidenBoxFooter span {
+        font-size: 8px;
+        line-height: 8px;
+        color:#fff;
+    }
+span img {
+        font-size: 8px;
+        line-height: 8px;
+        color: #fff;
+    }
+
+.footerInfoLeftLink a:nth-child(2) {
+    padding-left: 20px;
+}
+
+/*hidenBox start*/
+.hidenBox {
+    display: none;
+}
+/*Responsive Hamburger Menu*/
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400);
+
+
+#menu-button {
+    position: fixed;
+    top: 0px;
+    left: -1px;
+    display: block;
+    width: 64px;
+    height: 64px;
+    background: #3cb3b3;
+    border-radius: 5px;
+    z-index: 200;
+}
+
+    #menu-button:after {
+        position: absolute;
+        content: "☰";
+        font-size: 44px;
+        color: #fff;
+        width: 64px;
+        height: 64px;
+        text-align: center;
+        line-height: 65px;
+    }
+
+    #menu-button:hover {
+        opacity: 0.8;
+    }
+
+    #menu-button.on:after {
+        content: "x";
+    }
+
+#overlay {
+    display: none;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    opacity: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+    #overlay.open {
+        display: block;
+    }
+
+#hamburger-menu {
+    position: fixed;
+    top: 20px;
+    left: 90px;
+    z-index: 101;
+    overflow: hidden;
+    border-radius: 5px;
+    width: 0;
+    height: 0;
+}
+
+    #hamburger-menu nav {
+        padding: 10px;
+        z-index: 101;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        background-color: #3cb3b3;
+        border-radius: 10px;
+        height: 300px;
+    }
+
+        #hamburger-menu nav a {
+            display: block;
+            padding: 10px;
+            height: 1em;
+            color: #fff;
+            font-size: 1em;
+            line-height: 1em;
+            text-decoration: none;
+            overflow: hidden;
+        }
+
+            #hamburger-menu nav a:hover {
+                cursor: pointer;
+                color: #fff;
+}
+
+
+
+/* Checkbox Hack */
+
+.CheckboxInput[type=radio] {
+    opacity: 0;
+}
+
+.CheckLabel {
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 3.5%;
+}
+
+/* Default State */
+/* Toggled State */
+#english:checked~.wrapper .english {
+    display: block;
+}
+
+#english~.wrapper .english {
+    display: none;
+}
+
+#english:checked~.wrapper .german {
+    display: none;
+}
+
+#german~.wrapper .german {
+    display: none;
+}
+
+#german:checked~.wrapper .english {
+    display: none;
+}
+
+#german:checked~.wrapper .german {
+    display: block;
+}*/
+
+/*seo text setings*/
+.seoLotText {
+    margin: 20px;
+}
+
+.seoLotText h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+    color: #606060;
+    margin: 0;
+    padding-top: 22px;
+}
+
+.seoLotText h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: #606060;
+    margin: 0;
+    padding-top: 22px;
+}
+
+.seoLotText p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #606060;
+    margin: 0;
+}

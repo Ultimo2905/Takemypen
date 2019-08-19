@@ -1,0 +1,893 @@
+@media (min-width: 1750px) and (max-width: 1860px) {
+    .littleBlockPAndImgMain {
+        margin: 90px 0 0 39%;
+    }
+
+    .orderImg {
+        left: 52%;
+    }
+
+    .footerInfo {
+        margin: 49px 0 0 10%;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 29%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 20%;
+    }
+}
+
+@media (min-width: 1670px) and (max-width: 1749px) {
+    .littleBlockPAndImgMain {
+        margin: 90px 0 0 39%;
+    }
+
+    .orderImg {
+        left: 52%;
+    }
+
+    .footerInfo {
+        margin: 49px 0 0 10%;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 29%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 20%;
+    }
+}
+
+@media (min-width: 1610px) and (max-width: 1669px) {
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+    .orderImg {
+        left: 50%;
+    }
+
+    .rectangleInfoOne {
+        left: 472px;
+    }
+
+    .rectangleInfoThree {
+        margin: 165px 0 0 260px;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 14%;
+    }
+    .emailGroup {;
+        margin-right: 30px;
+    }
+    .rectangleInfoThreeImgThree {
+        display: none;
+    }
+    .rectangleTwoGroupTwo {
+        display: none;
+    }
+    .rectangleOneInf {
+        padding-left: 142px;
+    }
+}
+
+@media (min-width: 1430px) and (max-width: 1609px) {
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+.contactUsLink {
+    margin: 55px 0 0 31%;
+}
+    .logoLink {
+        padding: 0;
+    }
+
+    .orderImg {
+        left: 44%;
+    }
+
+    .rectangleInfoOne {
+        left: 472px;
+    }
+
+    .orderBlockInfo {
+        padding: 114px 0 0 250px;
+    }
+
+    .rectangleInfoThree {
+        margin: 165px 0 0 260px;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 18%;
+    }
+    .emailGroup {
+        margin-right: 30px;
+    }
+    .rectangleInfoThreeImgThree {
+        display: none;
+    }
+
+    .rectangleTwoGroupTwo {
+        display: none;
+    }
+
+    .rectangleOneInf {
+        padding-left: 142px;
+    }
+
+}
+
+@media (min-width: 1224px) and (max-width: 1429px) {
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+    .orderImg {
+        left: 50%;
+    }
+
+    .rectangleOneInf {
+        z-index: 44;
+    }
+
+    .rectangleInfoOne {
+        left: 290px;
+    }
+
+    .rectangleInfoTwo {
+        left: 54px;
+    }
+
+    .rectangleOneInf p:nth-child(2) {
+        color: #808080;
+    }
+
+    .rectangleOneInf p:nth-child(3) {
+        color: #808080;
+    }
+
+    .emailDescription {
+        color: #808080;
+
+    }
+
+    .orderBlockInfo {
+        padding: 114px 0 0 250px;
+    }
+
+    .rectangleInfoThree {
+        margin: 165px 0 0 260px;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 30%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 14%;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1223px) {
+
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+    .orderImg {
+        display: none;
+    }
+
+    .rectangleOneInf {
+        z-index: 44;
+    }
+
+    .rectangleInfoOne {
+        left: 100px;
+    }
+
+    .rectangleInfoTwo {
+        left: 54px;
+    }
+
+    .rectangleOneInf p:nth-child(2) {
+        color: #808080;
+    }
+
+    .rectangleOneInf p:nth-child(3) {
+        color: #808080;
+    }
+
+    .emailDescription {
+        color: #808080;
+
+    }
+
+    .orderBlockInfo {
+        padding: 114px 0 0 350px;
+    }
+
+    .rectangleInfoThree {
+        margin: 165px 0 0 50px;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 27%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 10%;
+    }
+
+    .orderBlock {
+        background-image: url(../images/workman.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+    }
+
+    .rectangleTwoGroupTwo {
+        z-index: 55;
+    }
+
+    header a {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .lastLine {
+        display: none;
+    }
+    .footerInfo {
+        margin: 49px 0 0 3%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    .navBar {
+        display: none;
+    }
+    .lastLine {
+        display: none;
+    }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+    .hidenBox {
+        display: block;
+        top: -64px;
+        left: 0;
+        /*position: absolute;*/
+    }
+
+    .contactUs {
+        margin-top: 140px;
+        position: relative;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+
+    .contactUsText {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+
+    .rectangleOne,
+    .rectangleTwo,
+    .rectangleThree,
+    .rectangleFoure {
+        display: none;
+    }
+
+    .rectangleInfoOne {
+        width: 738px;
+    }
+
+    .orderImg {
+        display: none;
+    }
+
+    .rectangleOneInf {
+        z-index: 44;
+    }
+
+    .rectangleInfoOne {
+        left: 10px;
+    }
+
+    .rectangleInfoTwo {
+        left: 54px;
+        width: 90%;
+    }
+
+    .rectangleOneInf p:nth-child(2) {
+        color: #808080;
+    }
+
+    .rectangleOneInf p:nth-child(3) {
+        color: #808080;
+    }
+
+    .emailDescription {
+        color: #808080;
+    }
+
+    .rectangleTwoGroupOne {
+        padding: 10px;
+    }
+
+    .phoneSvgLogo {
+        padding: 28px 0 34px 120px;
+    }
+
+    .dayMonSun,
+    .workTime {
+        margin-left: 100px;
+    }
+
+    .orderBlockInfo {
+        padding: 114px 0 0 0;
+        text-align: center;
+    }
+
+    .rectangleInfoThree {
+        margin: 165px 0 0 -25px;
+        width:100%;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 20%;
+    }
+
+    .clockSvg {
+        margin: 24px 0 38px 515px;
+    }
+
+    .rectangleInfoThreeImgThree {
+        display: none;
+    }
+
+    .mobTitle {
+        text-align: center;
+    }
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+    footer {
+        height: 100%;
+        position: relative;
+        top: 1610px;
+    }
+
+    .footerLinkImg {
+        margin: 20px;
+    }
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .footerFirstBlock img {
+        display: none;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+
+    .orderBlock {
+        background-image: url(../images/workman.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+    }
+
+    .rectangleTwoGroupTwo {
+        z-index: 55;
+    }
+
+    .emailGroup {
+        margin-right: 20%;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    .navBar {
+        display: none;
+    }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+    .hidenBox {
+        display: block;
+        top: -64px;
+        left: 0;
+        /*position: absolute;*/
+
+    }
+
+    .contactUs {
+        margin-top: 140px;
+        position: relative;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+
+    .contactUsText {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+
+    .rectangleOne,
+    .rectangleTwo,
+    .rectangleThree,
+    .rectangleFoure {
+        display: none;
+    }
+
+    .rectangleTwoGroupOne,
+    .rectangleTwoGroupTwo,
+    .rectangleTwoGroupSvgTwo,
+    .rectangleInfoThreeImgOne {
+        display: none;
+    }
+
+    .rectangleInfoOne {
+        width: 100%;
+        left: 0;
+    }
+
+    .orderImg {
+        display: none;
+    }
+
+    .rectangleOneInf {
+        z-index: 44;
+    }
+
+    .rectangleInfoTwo {
+        left: 0;
+        width: 100%;
+    }
+
+    .rectangleOneInf p:nth-child(2) {
+        color: #808080;
+    }
+
+    .rectangleOneInf p:nth-child(3) {
+        color: #808080;
+    }
+
+    .emailDescription {
+        color: #808080;
+    }
+
+    .rectangleTwoGroupOne {
+        padding: 10px;
+    }
+
+    .phoneSvgLogo {
+        padding: 28px 0 34px 0;
+    }
+
+    .dayMonSun p {
+        margin: 0;
+    }
+
+    .dayMonSun,
+    .workTime {
+        margin: 25px 0 0 15px;
+        max-width: 300px;
+    }
+
+    .orderBlockInfo {
+        padding: 114px 0 0 0;
+        text-align: center;
+    }
+
+    .rectangleInfoThree {
+        margin: 125px 0 0 0;
+        width: 100%;
+    }
+
+    .rectangleInfoThreeImgTwo {
+        margin: 100px 0 0 10px;
+    }
+
+    .emailGroup {
+        margin-right: 10%;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 20%;
+    }
+
+    .clockSvg {
+        margin: 25px 0 25px 300px;
+    }
+
+    .rectangleInfoThreeImgThree {
+        display: none;
+    }
+
+    .mobTitle {
+        text-align: center;
+    }
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+    footer {
+        height: 100%;
+        position: relative;
+        top: 1610px;
+    }
+
+    .footerLinkImg {
+        margin: 20px;
+    }
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .lastLine {
+        display: none;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+
+
+    .orderBlock {
+        background-image: url(../images/workman.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+        top: 1425px;
+    }
+
+    .rectangleTwoGroupTwo {
+        z-index: 55;
+    }
+
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+    .logo {
+        margin: 10px 17px 9px 75px;
+    }
+
+    .navBar {
+        display: none;
+  
+    }      
+    .hidenBoxFooter {
+    display: flex;
+    padding-bottom: 20px;
+    }
+
+    .hidenBox {
+        display: block;
+        top: -64px;
+        left: 0;
+        /* position: absolute;*/
+
+    }
+
+    .contactUs {
+        margin-top: 140px;
+        position: relative;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+
+    .contactUsText {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+
+    .rectangleOneInf p:first-child {
+        text-align: left;
+        padding: 45px 0 0 0;
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .rectangleOneInf p:nth-child(2) {
+        text-align: left;
+        font-size: 18px;
+        line-height: 21px;
+    }
+
+    .rectangleOneInf p:nth-child(3) {
+        text-align: left;
+        font-size: 18px;
+        line-height: 21px
+    }
+
+
+    .rectangleOne,
+    .rectangleTwo,
+    .rectangleThree,
+    .rectangleFoure {
+        display: none;
+    }
+
+    .rectangleTwoGroupOne,
+    .rectangleTwoGroupTwo,
+    .rectangleTwoGroupSvgTwo,
+    .rectangleInfoThreeImgOne {
+        display: none;
+    }
+
+    .rectangleInfoOne {
+        width: 100%;
+        left: 0;
+    }
+
+    .orderImg {
+        display: none;
+    }
+
+    .rectangleOneInf {
+        z-index: 44;
+    }
+
+    .rectangleInfoTwo {
+        left: 0;
+        width: 100%;
+        top: 570px;
+    }
+
+    .rectangleOneInf p:nth-child(2) {
+        color: #808080;
+    }
+
+    .rectangleOneInf p:nth-child(3) {
+        color: #808080;
+    }
+
+    .emailDescription {
+        color: #808080;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .rectangleTwoGroupOne {
+        padding: 10px;
+    }
+
+    .phoneSvgLogo {
+        padding: 34px 0 34px 0;
+        margin: 0 0 0 -15px;
+    }
+
+
+    .dayMonSun p {
+        margin: 0;
+    }
+
+    .dayMonSun {
+        margin: 12px 0 0 15px;
+        max-width: 300px;
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .workTime {
+        margin: 55px 0 0 15px;
+        max-width: 300px;
+        font-size: 18px;
+        line-height: 21px;
+        padding: 0;
+    }
+
+    .orderBlockInfo {
+        padding: 40px 0 0 0;
+        text-align: center;
+    }
+
+    .rectangleInfoThree {
+        margin: 50px 0 0 0;
+        width: 100%;
+    }
+
+    .rectangleInfoThreeImgTwo {
+        margin: 200px 0 0 100px;
+    }
+
+    .emailGroup {
+        margin-right: 5%;
+    }
+
+    .emailBlod {
+        font-size: 18px;
+        line-height: 21px;
+        margin-top: 10px;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 20%;
+    }
+
+    .clockSvg {
+        margin: 0;
+        padding: 45px 0 0 173px;
+    }
+
+    .rectangleInfoThreeImgThree {
+        display: none;
+    }
+
+    .mobTitle {
+        text-align: center;
+    }
+
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+    footer {
+        height: 100%;
+        position: relative;
+        top: 1180px;
+    }
+
+    .footerLinkImg {
+        margin: 20px;
+    }
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .lastLine {
+        display: none;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+
+
+    .orderBlock {
+        background-image: none;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+        top: 1180px;
+        height: 270px;
+        z-index: 1;
+    }
+
+    .rectangleTwoGroupTwo {
+        z-index: 55;
+    }
+
+    header a {
+         line-height: 24px;
+    }
+
+}

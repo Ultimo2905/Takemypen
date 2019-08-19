@@ -1,0 +1,500 @@
+@media (min-width: 1750px) and (max-width: 1860px) {
+    .littleBlockPAndImgMain {
+        margin: 90px 0 0 39%;
+    }
+
+    .orderImg {
+        left: 52%;
+    }
+
+    .footerInfo {
+        margin: 49px 0 0 10%;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 29%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 20%;
+    }
+}
+
+@media (min-width: 1670px) and (max-width: 1749px) {
+    .littleBlockPAndImgMain {
+        margin: 90px 0 0 39%;
+    }
+
+    .orderImg {
+        left: 52%;
+    }
+
+    .footerInfo {
+        margin: 49px 0 0 10%;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 29%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 20%;
+    }
+}
+
+@media (min-width: 1600px) and (max-width: 1669px) {
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+    .orderImg {
+        left: 50%;
+    }
+
+    .rectangleInfoOne {
+        left: 472px;
+    }
+
+    .rectangleInfoThree {
+        margin: 165px 0 0 260px;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 14%;
+    }
+}
+
+@media (min-width: 1430px) and (max-width: 1599px) {
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+    .orderImg {
+        left: 50%;
+    }
+
+    .rectangleInfoOne {
+        left: 472px;
+    }
+
+    .orderBlockInfo {
+        padding: 114px 0 0 250px;
+    }
+
+    .rectangleInfoThree {
+        margin: 165px 0 0 260px;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 14%;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1429px) {
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+    .orderImg {
+        left: 50%;
+    }
+
+    .rectangleOneInf {
+        z-index: 44;
+    }
+
+    .rectangleInfoOne {
+        left: 290px;
+    }
+
+    .rectangleInfoTwo {
+        left: 54px;
+    }
+
+    .rectangleOneInf p:nth-child(2) {
+        color: #808080;
+    }
+
+    .rectangleOneInf p:nth-child(3) {
+        color: #808080;
+    }
+
+    .emailDescription {
+        color: #808080;
+
+    }
+
+    .orderBlockInfo {
+        padding: 114px 0 0 250px;
+    }
+
+    .rectangleInfoThree {
+        margin: 165px 0 0 260px;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 25%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 14%;
+    }
+}
+
+@media (min-width: 1050px) and (max-width: 1299px) {
+
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+    .orderImg {
+        display: none;
+    }
+
+    .rectangleOneInf {
+        z-index: 44;
+    }
+
+    .rectangleInfoOne {
+        left: 100px;
+    }
+
+    .rectangleInfoTwo {
+        left: 54px;
+    }
+
+    .rectangleOneInf p:nth-child(2) {
+        color: #808080;
+    }
+
+    .rectangleOneInf p:nth-child(3) {
+        color: #808080;
+    }
+
+    .emailDescription {
+        color: #808080;
+
+    }
+
+    .orderBlockInfo {
+        padding: 114px 0 0 350px;
+    }
+
+    .rectangleInfoThree {
+        margin: 165px 0 0 50px;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 20%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 10%;
+    }
+
+    .orderBlock {
+        background-image: url(../images/workman.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+    }
+
+    .rectangleTwoGroupTwo {
+        z-index: 55;
+    }
+
+    header a {
+        padding-left: 25px;
+    }
+
+    .lastLine {
+        display: none;
+    }
+}
+
+@media (min-width: 1224px) and (max-width: 1299px) {
+
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    .navBar {
+        display: none;
+    }
+
+    .hidenBox {
+        display: block;
+        position: absolute;
+        top: -65px;
+        left: 0;
+    }
+
+    .texBlock {
+        padding: 20px;
+        width: auto;
+    }
+
+    label {
+        top: 73px;
+        left: 8px;
+    }
+
+    .menu-container {
+        top: 64px;
+    }
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+}
+
+@media (min-width: 680px) and (max-width: 1223px) {
+
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    .navBar {
+        display: none;
+    }
+
+    .rectangleOne,
+    .rectangleTwo,
+    .rectangleThree,
+    .rectangleFoure {
+        display: none;
+    }
+
+    .erorNumbrTitletextAndLink {
+        margin: 150px;
+    }
+
+    footer {
+        position: relative;
+        height: 100%;
+        top: 0;
+    }
+
+    .hidenBox {
+        display: block;
+        position: absolute;
+        top: -65px;
+        left: 0;
+    }
+
+    .texBlock {
+        padding: 20px;
+        width: auto;
+    }
+
+    label {
+        top: 73px;
+        left: 8px;
+    }
+
+    .menu-container {
+        top: 64px;
+    }
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+    /*    footer {
+        height: 100%;
+    }*/
+
+    .footerLinkImg {
+        margin: 20px;
+    }
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 679px) {
+
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    .navBar {
+        display: none;
+    }
+.logo {
+    margin: 10px 17px 9px 75px;
+}
+    .rectangleOne,
+    .rectangleTwo,
+    .rectangleThree,
+    .rectangleFoure {
+        display: none;
+    }
+
+    .erorNumbrTitletextAndLink {
+        flex-direction: column;
+        margin: 90px 0 0 0;
+        text-align: center;
+    }
+
+    .erorNumbr {
+        font-size: 120px;
+        line-height: 100px
+    }
+
+    .mobTitletextAndLink {
+        padding-top: 30px;
+    }
+
+    .anderopsLink {
+        margin: 30px auto;
+        width: 200px;
+    }
+
+    footer {
+        position: relative;
+        height: 100%;
+        top: 0;
+    }
+
+    .hidenBox {
+        display: block;
+        position: absolute;
+        top: -65px;
+        left: 0;
+    }
+
+    .texBlock {
+        padding: 20px;
+        width: auto;
+    }
+
+    label {
+        top: 73px;
+        left: 8px;
+    }
+
+    .menu-container {
+        top: 64px;
+    }
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+    .footerLinkImg {
+        margin: 20px;
+    }
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+
+    .lastLine {
+        display: none;
+    }
+}

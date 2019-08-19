@@ -1,0 +1,620 @@
+@media (min-width: 1580px) and (max-width: 1745px) {
+    .littleBlockPAndImgMain {
+        margin: 90px 0 0 39%;
+    }
+
+    .footerInfo {
+        margin: 49px 0 0 10%;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 29%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 16%;
+
+    }
+}
+
+@media (min-width: 1250px) and (max-width: 1579px) {
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 30%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 14%;
+    }
+
+}
+
+@media (min-width: 1224px) and (max-width: 1249px) {
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    header a {
+        padding-left: 40px;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+
+    .contactUsLink {
+        margin: 55px 0 0 27%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 15%;
+    }
+}
+
+@media (min-width: 1090px) and (max-width: 1223px) {
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    header a {
+        padding-left: 40px;
+    }
+
+    .navBar {
+        display: none;
+    }
+
+    .hidenBox {
+        display: block;
+        top: -65px;
+        left: 0;
+        position: absolute;
+
+    }
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+    .footerLinkImg {
+        margin: 20px;
+    }
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1089px) {
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    header a {
+        padding-left: 25px;
+    }
+
+    .navBar li:first-child {
+        padding-left: 0;
+    }
+
+    .logoLink {
+        padding: 0;
+    }
+
+    .sectionOneImg {
+        text-align: center;
+    }
+
+    .sectionOneImg img {
+        max-width: 90%;
+    }
+
+    .textTitleBlock {
+        margin: 65px 10px 0 10px;
+    }
+
+    .blockOfImages {
+        justify-content: center;
+    }
+
+    .blockOfImagesAndSquare {
+        margin: 0 10px 0 10px;
+    }
+
+    .cartBlok {
+        justify-content: center;
+    }
+
+    .cartBlokLeftAndRight {
+        margin: 0 20px 0 20px;
+    }
+
+    .blockOfOnleTextColumn {
+        justify-content: center;
+    }
+
+    .blockOfOnleTextColumn div {
+        padding: 0 20px 0 20px;
+    }
+
+    .blockOfOnleTextRow {
+        margin: 40px 20px 0 20px;
+    }
+
+    .contactUsLink {
+        margin: 55px 0 0 22%;
+    }
+
+    .footerLinkImg {
+        margin: 67px 10px 0 10%;
+    }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+    .lastLine {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    .navBar {
+        display: none;
+    }
+
+    .hidenBox {
+        display: block;
+        top: -64px;
+        left: 0;
+        position: absolute;
+
+    }
+
+    .sectionTwoImg img {
+        max-width: 100%;
+    }
+
+    .textTitleBlockAndText {
+        margin-left: 13%;
+    }
+
+    .blockOfOnleTextColumn div {
+        padding: 0;
+    }
+
+    .sectionOneImg {
+        text-align: center;
+    }
+
+    .sectionOneImg img {
+        max-width: 90%;
+    }
+
+    .textTitleBlock {
+        margin: 65px 10px 0 10px;
+    }
+
+    .blockOfImages {
+        justify-content: center;
+    }
+
+    .blockOfImagesAndSquare {
+        margin: 0 10px 0 10px;
+    }
+
+    .cartBlok {
+        justify-content: center;
+    }
+
+    .cartBlokLeftAndRight {
+        margin: 0 20px 0 20px;
+    }
+
+    .blockOfOnleTextColumn {
+        justify-content: center;
+    }
+
+    .blockOfOnleTextColumn div {
+        padding: 0 20px 0 20px;
+    }
+
+    .blockOfOnleTextRow {
+        margin: 40px 20px 0 20px;
+    }
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+    .footerLinkImg {
+        margin: 20px;
+    }
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+    .lastLine {
+        display: none;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    .navBar {
+        display: none;
+    }
+
+    .hidenBox {
+        display: block;
+        top: -64px;
+        left: 0;
+        position: absolute;
+
+    }
+
+    .textTitleBlockAndAmination {
+        flex-basis: auto;
+        margin-left: 30px;
+    }
+
+    .headImages {
+        height: 300px;
+    }
+
+    .sectionTwoImg img {
+        max-width: 100%;
+    }
+
+    .textTitleBlockAndText {
+        margin-top: 50px;
+    }
+
+    .blockOfOnleTextColumn div {
+        padding: 0;
+    }
+
+    .sectionOneImg {
+        text-align: center;
+    }
+
+    .sectionOneImg img {
+        max-width: 90%;
+    }
+
+    .textTitleBlock {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .blockOfImages {
+        justify-content: center;
+    }
+
+    .blockOfImagesAndSquare {
+        margin: 0 10px 0 10px;
+    }
+
+    .cartBlok {
+        justify-content: center;
+    }
+
+    .cartBlokLeftAndRight {
+        margin: 0 20px 0 20px;
+    }
+
+    .blockOfOnleTextColumn {
+        justify-content: center;
+    }
+
+    .blockOfOnleTextColumn div {
+        padding: 0 20px 0 20px;
+    }
+
+    .blockOfOnleTextRow {
+        margin: 40px 20px 0 20px;
+    }
+
+    .formSubscribe form {
+        flex-direction: column;
+    }
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .buttonSubmit {
+        padding: 16px 0 16px 0;
+    }
+
+    .cartBlokLeftAndRight img {
+        max-width: 100%
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+    .footerLinkImg {
+        margin: 20px;
+    }
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+    .lastLine {
+        display: none;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+    header {
+        justify-content: center;
+        position: fixed;
+    }
+
+    header a {
+        padding: 0;
+    }
+
+    .logo {
+        margin: 10px 17px 9px 75px;
+    }
+
+    .navBar {
+        display: none;
+    }
+
+    .menu-container .links {
+        left: 85px;
+    }
+
+    .hidenBox {
+        display: block;
+        top: -64px;
+        left: 0;
+        position: absolute;
+
+    }
+
+    .textTitle {
+        padding: 40px 10px 0 10px;
+    }
+
+    .textTitleBlockAndAmination {
+        flex-basis: auto;
+        margin-left: 30px;
+    }
+
+    .headImages {
+        height: 300px;
+    }
+
+    .sectionTwoImg img {
+        max-width: 100%;
+    }
+
+    .textTitleBlockAndText {
+        margin-top: 50px;
+    }
+
+    .blockOfOnleTextColumn div {
+        padding: 0;
+    }
+
+    .sectionOneImg {
+        text-align: center;
+    }
+
+    .sectionOneImg img {
+        max-width: 90%;
+    }
+
+    .emailIinformation input {
+        width: 100%;
+
+    }
+
+    .textTitleBlock {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .blockOfImages {
+        justify-content: center;
+    }
+
+    .blockOfImagesAndSquare {
+        margin: 10px 10px 0 10px;
+    }
+
+    .cartBlok {
+        justify-content: center;
+    }
+
+    .cartBlokLeftAndRight {
+        margin: 0 20px 0 20px;
+    }
+
+    .blockOfOnleTextColumn {
+        justify-content: center;
+    }
+
+    .blockOfOnleTextColumn div {
+        padding: 0 20px 0 20px;
+    }
+
+    .blockOfOnleTextRow {
+        margin: 40px 20px 0 20px;
+    }
+
+    .formSubscribe form {
+        flex-direction: column;
+    }
+
+    .footerFirstBlock {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerChekLine {
+        display: none;
+    }
+
+    .footerInfoLinks {
+        display: none;
+    }
+
+    .verticalline {
+        display: none;
+    }
+
+    .buttonSubmit {
+        padding: 16px 0 16px 0;
+    }
+
+    .cartBlokLeftAndRight img {
+        max-width: 100%
+    }
+
+    .footerInfo {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .contactUsLink {
+        margin: 20px;
+    }
+
+    .footerLinkImg {
+        margin: 20px;
+    }
+
+    .footerLinkImg a:first-child {
+        padding: 0;
+    }
+
+    .footerPhoneBlock {
+        padding: 20px;
+    }
+
+    .tk-linear:before {
+        width: 250px;
+    }
+
+    .loaders-wrapOne {
+        width: 250px;
+    }
+    .hidenBoxFooter {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+    .lastLine {
+        display: none;
+    }
+}
